@@ -7,6 +7,6 @@ The volume needs to be mapped to /bungee in the container. The port 25565 needs 
 
 You can use 
 ```bash
-docker run floridaman7588/bungeecord -v /bungee:/path/on/host -p 25565:25577
-```
+docker run -v /bungee:/path/on/host -p 25565:25577 floridaman7588/bungeecord 
+``` 
 to run the container.
