@@ -3,7 +3,7 @@ RUN apt-get update
 RUN apt-get upgrade -y
 RUN apt install default-jdk -y
 RUN apt install wget -y
-WORKDIR /minecraft
+WORKDIR /bungee
 EXPOSE 25577
 
 RUN cd /
