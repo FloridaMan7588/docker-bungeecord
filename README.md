@@ -1,3 +1,6 @@
+# Archived 
+I really don't maintain this anymore, feel free to fork it or whatever. I'm archiving it.
+
 # Docker-Bungeecord
 An extremely simple bungeecord proxy server running in docker. 
 
